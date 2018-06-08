@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "cuid"
-version = "0.1-1"
+version = "0.2-1"
 
 -- LuaDist source
 source = {
-  tag = "0.1-1",
+  tag = "0.2-1",
   url = "git://github.com/LuaDist-testing/cuid.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/marcoonroad/cuid",
---   tag = "v0.1-1",
+--   tag = "v0.2-1",
 -- }
 
 description = {
