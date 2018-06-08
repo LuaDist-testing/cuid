@@ -1,22 +1,27 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "cuid"
-version = "0.2-1"
+version = "0.3-1"
 
 -- LuaDist source
 source = {
-  tag = "0.2-1",
+  tag = "0.3-1",
   url = "git://github.com/LuaDist-testing/cuid.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/marcoonroad/cuid",
---   tag = "v0.2-1",
+--   tag = "v0.3-1",
 -- }
+
+local detailed = [[
+  This library provides collision-resistant IDs for
+  applications which need to scale.
+]]
 
 description = {
   summary  = "CUID generator for Lua.",
-  detailed = "This library provides collision-resistant IDs for applications which need to scale.",
+  detailed = detailed,
   homepage = "http://github.com/marcoonroad/cuid",
   license  = "MIT/X11",
 }
